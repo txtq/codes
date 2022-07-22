@@ -1,5 +1,4 @@
 <html>
-       <title> Bathroom Codes <title>
     <body>
        <p><b>Below are the keys for restaurant bathrooms near NYU Tandon:<b><p>
         <p>#1- Chipotle | 474 Fulton St (#5186)</p>
