@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
     <head>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
@@ -15,7 +14,9 @@
         <p>#3- Shake Shack | 409 Fulton St (#2174)</p>
         <p><sub>if you have any bathroom codes that aren't listed, please dm me @altf4#1578 on discord, and I will give you proper credit<sub><p>
     
-        <button type="button" onclick="displayIframe()">Open Iframe please</button>
+        <button type="button" onclick="displayIframe()">Add Your Own Codes!</button>
         <div id="iframeDisplay"></div>          
     <body>
 <html>
+
+    <!--  -->
