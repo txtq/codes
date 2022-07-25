@@ -8,7 +8,7 @@
     <body>
         
         <iframe src="https://survey.evaluable.co/u3ra51j9g3l60wgrh6?email=anon@evaluable.co"
-            title="iframe Example 1" width="1000" height="700">
+            title="iframe Example 1" width="900" height="400">
         <iframe>
         
 <html>
