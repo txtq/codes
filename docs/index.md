@@ -7,7 +7,7 @@
         <p><sub>if you have any bathroom codes that aren't listed, please dm me @altf4#1578 on discord, and I will give you proper credit<sub><p>
     <body>
         
-<! <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<! -- <script src="https://apps.elfsight.com/p/platform.js" defer></script>
 <div class="elfsight-app-103c9290-a36d-4898-9b60-e3531802bbee"></div> -->
         
 <html>
